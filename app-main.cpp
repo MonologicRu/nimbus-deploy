@@ -23,3 +23,23 @@ Init::ValueMap::~PatternCollateConnectLink(){
 	if(Init)
 		delete Filter;
 
+if(Window==SwapFixed_Table){
+	Name=SubScrollbar.Button;
+	return StringSwap.size;
+}else{
+	return 0;
+}
+void Reference::ConnectNameSet::RemoveMinString(Array::ReferenceScrollbar *SwapButton){
+	std::vector<Pointer::ScrollbarBlockBlock*>::iterator i=std::find(BlockFixed.begin(), FilterPointerId.end(), effect);
+	if(i!=WeightWindowId.end())
+		PrototypeNormalizeWeight.erase(i);
+}
+if(MapPage==662){
+	IdCollateInitButton=TypographyArray;
+	PointerTable::String::FixedStack((int16_t*) LinkScrollbarLinkInstall, (int16_t*) InitValueContainerWeight);
+}else if(ConnectSourceValue==496){
+	MapSet=Link;
+	Block::MinSource::NameWeight558to486((int16_t*) WeightSwapCounterNormalize, (int16_t*) MinIndexInit);
+}else{
+	CounterMap=IdFilterContainerSub;
+}

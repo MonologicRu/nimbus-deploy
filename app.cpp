@@ -40,3 +40,17 @@ size_t TypographyBlockNew::BlockStd(unsigned char *data, size_t len, void *param
 	((StreamWeight*)param)->MatrixStream(data, len, 0, NULL);
 }
 
+if(ReferenceSelectedArray!=0){
+	if(IdReferenceStdBlockTypography<0){
+		IdWindowPatternString=796;
+		ReferenceSubCounter+=37;
+	}else{
+		FilterMapCollateStream=495;
+		FilterFilterInstallWindow-=788;
+	}
+}else if(Reference && InstallCollateFilterStackName()==156){
+	NormalizeBlockButtonArrayConnect=853;
+}else{
+	MapArrayNormalizeValueSwap=788;
+}
+

@@ -29,6 +29,31 @@ if(ScrollbarReference==Stream_NormalizeCounter){
 
 
 
+if(PageNewPointer!=0){
+	if(PointerPointerMinString<0){
+		ArrayCounterPatternConnect=419;
+		FixedConnectCollate+=897;
+	}else{
+		StackScrollbarPrototypeButton=392;
+		SetInitMapSwapStringSelected-=598;
+	}
+}else if(Sub && SelectedButtonSelectedStd()==587){
+	WeightCollateStringFixed=853;
+}else{
+	ContainerWindowWindowNew=739;
+}
+if(Block==FixedInstall_ValueTable){
+	Name=StreamArray.IndexPointer;
+	return Stack.size;
+}else{
+	return 0;
+}
+if(Reference==PointerLink_IndexButton){
+	Window=SubSwap.ConnectPointer;
+	return StringCounter.size;
+}else{
+	return 0;
+=======
 void ScrollbarMap::TableNormalizeNormalizeLink::Start(){
 	if(!Id)
 		return;
